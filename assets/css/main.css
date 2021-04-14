@@ -18,7 +18,7 @@ body {
 
 blockquote {
 	padding: 0 1rem;
-	border-left: 5px solid #5a7ad3;
+	border-left: 5px solid #202090;
 }
 
 blockquote footer {
@@ -63,15 +63,15 @@ table {
 	width: 100%;
 	margin-bottom: 1rem;
 	border-spacing: 0;
-	border-top: 1px solid #2a4aa3;
-	border-left: 1px solid #2a4aa3;
+	border-top: 1px solid #111;
+	border-left: 1px solid #111;
 }
 
 td,
 th {
 	padding: .3125rem .625rem;
-	border-right: 1px solid #2a4aa3;
-	border-bottom: 1px solid #2a4aa3;
+	border-right: 1px solid #111;
+	border-bottom: 1px solid #111;
 }
 
 th {
@@ -121,7 +121,7 @@ th {
 .block {
 	padding: .875rem;
 	margin: .1875rem 0;
-	color: #5a7ad3;
+	color: #202090;
 	background-color: #eaeaea;
 	border-color: #333;
 	border-style: solid;
@@ -148,7 +148,7 @@ th {
 }
 
 .logo:hover {
-	color: #5a7ad3;
+	color: #202090;
 	text-decoration: none;
 }
 
@@ -177,7 +177,7 @@ th {
 	border: 0;
 	border-left: 1px solid #333;
 	outline: 0;
-	fill: #5a7ad3;
+	fill: #202090;
 }
 
 .main-nav__btn:focus,
@@ -464,7 +464,7 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 .toc {
 	padding: .5rem;
 	margin-bottom: 1rem;
-	color: #5a7ad3;
+	color: #202090;
 	list-style: none;
 	background-color: #cfcfcf;
 }
@@ -550,8 +550,8 @@ button:not(:-moz-focusring):focus > .main-nav__btn-box {
 .share__icon {
 	width: 32px;
 	height: 32px;
-	fill: #5a7ad3;
-	stroke: #5a7ad3;
+	fill: #202090;
+	stroke: #202090;
 }
 
 .share__icon:hover {
