@@ -198,8 +198,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   shortName = "Binario"
   display = "browser"
   startUrl = "/"
-  backgroundColor = "#2a2a2a"
-  themeColor = "#1b1b1b"
+  backgroundColor = "#eaeaea"
+  themeColor = "#fefefe"
   description = "Responsive card-based & code-light Hugo theme"
   orientation = "portrait"
   scope = "/"
@@ -424,8 +424,8 @@ sure that everything works as expected.
 | short_name                | shortName                   | `.Site.Title` | required    |
 | display                   | display                     | `browser`     | required    |
 | start_url                 | startUrl                    | `/`           | required    |
-| background_color          | backgroundColor             | `#2a2a2a`     | recommended |
-| theme_color               | themeColor                  | `#1b1b1b`     | recommended |
+| background_color          | backgroundColor             | `#eaeaea`     | recommended |
+| theme_color               | themeColor                  | `#fefefe`     | recommended |
 | description               | description                 |               | recommended |
 | orientation               | orientation                 |               | recommended |
 | scope                     | scope                       |               | recommended |
