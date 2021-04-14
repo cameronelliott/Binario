@@ -63,15 +63,15 @@ table {
 	width: 100%;
 	margin-bottom: 1rem;
 	border-spacing: 0;
-	border-top: 1px solid #3a5ab3;
-	border-left: 1px solid #3a5ab3;
+	border-top: 1px solid #2a4aa3;
+	border-left: 1px solid #2a4aa3;
 }
 
 td,
 th {
 	padding: .3125rem .625rem;
-	border-right: 1px solid #3a5ab3;
-	border-bottom: 1px solid #3a5ab3;
+	border-right: 1px solid #2a4aa3;
+	border-bottom: 1px solid #2a4aa3;
 }
 
 th {
